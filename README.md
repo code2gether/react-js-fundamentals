@@ -1,4 +1,4 @@
-# React JS Fundamentals Workshop Project - Movie App
+# React JS Fundamentals Workshop
 
 This is a project for React JS Fundamentals Workshop
 
